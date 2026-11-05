@@ -18,7 +18,7 @@ Note:
       File Sizes: 
       
                   Raw nitro: About 100 Megabytes (After extraction from the .rar, download will be about 39mb.)
-                  Converted .dae files: about 43 Gigabytes (Make sure you have the space for these!)
+                  Converted .dae files: About 43 Gigabytes (Make sure you have the space for these!)
 
 
 Because of the immense file size, I cannot upload the converted .dae files to Github because even as a compressed .rar file, it exceeds Git LFS's 2 Gigabyte limit for free users. In fact, it was even difficult to get the raw nitro files on here. I might soon find a way to upload them outside a .rar, because they should fit through Git LFS.
