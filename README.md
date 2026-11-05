@@ -13,7 +13,10 @@ Dumped using Apicula.
 
 Note: 
       nitro.rar is the raw extracted 3d model files from the game, of various file types. These files are viewable through Apicula using the view command, but cannot be ported to software like blender for viewing. You will          need to convert them to .dae files, which Apicula can also do
+
+      
       File Sizes: 
+      
                   Raw nitro: About 100 Megabytes (After extraction from the .rar, download will be about 39mb.)
                   Converted .dae files: about 43 Gigabytes (Make sure you have the space for these!)
 
