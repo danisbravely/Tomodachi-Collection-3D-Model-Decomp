@@ -12,7 +12,7 @@ This does not include the Mii Character's Head, Hair, Facial Features, or Access
 Dumped using Apicula.
 
 Note: 
-      nitro.rar is the raw extracted 3d model files from the game, of various file types. These files are viewable through Apicula using the view command, but cannot be ported to software like blender for viewing. You will          need to convert them to .dae files, which Apicula can also do
+      nitro.rar is the raw extracted 3d model files from the game, of various file types. These files are viewable through Apicula using the view command, but cannot be ported to software like blender for viewing. You will          need to convert them to .dae files, which Apicula can also do.
 
       
       File Sizes: 
