@@ -1,5 +1,5 @@
 # Tomodachi-Collection-3D-Model-Decomp
-A collection of 3D Model source files from Tomodachi Collection for the DS
+A collection of 3D Model source files from Tomodachi Collection for the Nintendo DS
 
 I do not own any of these models, all credit goes to Nintendo and their respective creators, and the developers of Tomodachi Collection
 
